@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  OpenTerminal
+
+  Created by Quentin Pâris on 17/08/2018.
+  Copyright © 2018 QP. All rights reserved.
+*/
+"Open a terminal" = "在此处打开终端";
+"This application adds a \"Open a terminal\" item in every Finder context menus." = "这个程序将会在右键菜单中增加\"Open a terminal\"选项。";
